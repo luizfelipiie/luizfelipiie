@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Luiz Felipe Naves</h1>
+<p align="center"><b>Backend Developer · Java / Spring Boot · Engenharia de Software (UnB)</b></p>
 
-<!--
-**luizfelipiie/luizfelipiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Quem sou
+Estudante de Engenharia de Software na UnB (FGA) e estagiário de desenvolvimento no DETRAN-DF,
+onde migrei serviços de Java 8 para Java 21 e desenvolvi APIs REST com Spring Boot + Oracle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Foco atual
+- Backend com Java/Spring e segurança de aplicações
+- Estruturas de dados e algoritmos (LeetCode em Python)
+- Estudando para a AWS Cloud Practitioner
+
+### 🛠️ Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,php,git,docker,aws,linux,vscode&theme=dark" />
+</p>
+
+### 📊 Atividade
+<img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
+
+### 📫 Contato
+<a href="https://www.linkedin.com/in/luiz-felipe"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:luizfelipenaves123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
