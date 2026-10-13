@@ -21,5 +21,5 @@ onde migrei serviços de Java 8 para Java 21 e desenvolvi APIs REST com Spring B
 <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
 
 ### 📫 Contato
-<a href="https://www.linkedin.com/in/luiz-felipe"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/luiz-felipe-3aa401360/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:luizfelipenaves123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
