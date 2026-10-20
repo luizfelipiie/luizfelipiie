@@ -3,11 +3,11 @@
 
 ---
 
-### 👨‍💻 Quem sou
+###  Quem sou
 Estudante de Engenharia de Software na UnB (FGA) e estagiário de desenvolvimento no DETRAN-DF,
 onde migrei serviços de Java 8 para Java 21 e desenvolvi APIs REST com Spring Boot + Oracle.
 
-### 🎯 Foco atual
+###  Foco atual
 - Backend com Java/Spring e segurança de aplicações
 - Estruturas de dados e algoritmos (LeetCode em Python)
 - Estudando para a AWS Cloud Practitioner
